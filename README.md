@@ -1,8 +1,8 @@
 # Serverless Spring
 
-This demo is for a guide I contributed to the Tanzu Developer Center
+This demo is for a guide I Lampda AWS
 
-https://tanzu.vmware.com/developer/guides/serverless-spring/
+https://github.com/jceleste1/newsletter-guide
 "# newsletter-guide" 
 "# newsletter-guide - Sample basic resource lambda AWS" 
 "# newsletter-guide - Sample resource lambda AWS" 
